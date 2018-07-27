@@ -18,7 +18,7 @@ System.out.println("Odd");
 }
 else
 {
-Systgem.out.println("invalid");
+System.out.println("invalid");
 }
 }
 }
