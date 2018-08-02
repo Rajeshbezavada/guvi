@@ -8,7 +8,7 @@ class Amstrong1{
            Scanner s=new Scanner(System.in);
            p =s.nextInt();
            n = s.nextInt();
-           for(int i=p;i<n;i++){
+           for(int i=p+1;i<n;i++){
                 f=i;
                int m=i;
            while(m>0){
