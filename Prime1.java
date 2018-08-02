@@ -11,7 +11,6 @@ class Prime1 {
             boolean flag = false;
 
             for(int i = 2; i <= low/2; ++i) {
-                // condition for nonprime number
                 if(low % i == 0) {
                     flag = true;
                     break;
