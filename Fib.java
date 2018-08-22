@@ -14,7 +14,6 @@ class Fib
 		for(int i=1;i<n;i++)
 		{
 			c=a+b;
-			
 			System.out.print(c);
 			System.out.print(" ");
 			a=b;
